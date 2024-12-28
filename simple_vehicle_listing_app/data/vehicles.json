@@ -1,0 +1,20 @@
+[
+    {
+        "name": "rolls royce",
+        "type": "Car",
+        "price": "500000",
+        "image": "https:\/\/images.dealer.com\/ddc\/vehicles\/2021\/Rolls-Royce\/Dawn\/Convertible\/color\/Anthracite-W70-51,46,45-640-en_US.jpg"
+    },
+    {
+        "name": "tesla",
+        "type": "car",
+        "price": "100000",
+        "image": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/2025-tesla-cybertruck-3-672e75cce7814.jpg"
+    },
+    {
+        "name": "caravan",
+        "type": "car",
+        "price": "400000",
+        "image": "https:\/\/thumbs.dreamstime.com\/z\/luxurious-modern-caravan-interior-generative-ai-sleek-featuring-comfortable-seating-warm-lighting-stylish-decor-ideal-332559746.jpg?ct=jpeg"
+    }
+]
